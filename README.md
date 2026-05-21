@@ -4,9 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raghav%20Goyal&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Intelligence%20from%20the%20Ground%20Up&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=🚀+CS+Student+%40+JCDM+Engineering;🥇+Rank+1+%7C+CGPA+9.24;🤖+Exploring+AI+%2F+ML+%2F+LLMs;🧠+CNN+%7C+ANN+%7C+RNN+%7C+GenAI;🏆+SIH+2025+College+Selectee;💻+C+%7C+C%2B%2B+%7C+Python+Enthusiast" alt="Typing SVG" />
-</a>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Student+%40+JCDM+Engineering;Rank+1+%7C+CGPA+9.24;Exploring+AI+%2F+ML+%2F+LLMs;CNN+%7C+ANN+%7C+RNN+%7C+GenAI;SIH+2025+College+Selectee;C+%7C+C%2B%2B+%7C+Python+Enthusiast" />
+</p>
 
 <br/>
 
