@@ -30,9 +30,6 @@ class RaghavGoyal:
     def __init__(self):
         self.name        = "Raghav Goyal"
         self.college     = "JCDM College of Engineering"
-        self.year        = "1st Year CSE"
-        self.cgpa        = 9.24
-        self.rank        = "🥇 1st in Semester"
         self.achievement = "SIH 2025 — College Level Selectee 🏆"
         self.motto       = "Trying to do better... every single day."
 
@@ -63,7 +60,6 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 | 🎯 Achievement | 📋 Details |
 |---|---|
-| 🥇 **Semester Rank** | **1st** in class with **CGPA 9.24** |
 | 🏆 **SIH 2025** | Selected at **College Level** — Smart India Hackathon |
 | 🎓 **Institution** | JCDM College of Engineering, 1st Year CSE |
 | 💡 **Projects** | Attendance Frontend System & PyTorch Explorations |
