@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION -->
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Student+%40+JCDM+Engineering;Rank+1+%7C+CGPA+9.24;Exploring+AI+%2F+ML+%2F+LLMs;CNN+%7C+ANN+%7C+RNN+%7C+GenAI;SIH+2025+College+Selectee;C+%7C+C%2B%2B+%7C+Python+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Student+%40+JCDM+Engineering;Exploring+AI+%2F+ML+%2F+LLMs;CNN+%7C+ANN+%7C+RNN+%7C+GenAI;SIH+2025+College+Selectee;C+%7C+C%2B%2B+%7C+Python+Enthusiast" />
 </p>
 
 <br/>
