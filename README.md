@@ -62,7 +62,7 @@ print(f"Hello, World! I'm {me.name} 👋")
 |---|---|
 | 🏆 **SIH 2025** | Selected at **College Level** — Smart India Hackathon |
 | 🎓 **Institution** | JCDM College of Engineering, 1st Year CSE |
-| 💡 **Projects** | Attendance Frontend System & PyTorch Explorations |
+| 💡 **Projects** | medsam-finetune & eduflow |
 
 </div>
 
@@ -149,8 +149,8 @@ print(f"Hello, World! I'm {me.name} 👋")
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   🐧  Linux internals & Bash scripting mastery          │
-│   🤖  Machine Learning algorithms from scratch          │
+│   🐧  Linux internals & Bash scripting mastery          | 
+│   🤖  Machine Learning algorithms                       │
 │   🧬  Deep Neural Networks: CNN / ANN / RNN             │
 │   ✨  Generative AI — diffusion, transformers           │
 │   🧠  LLM Behaviour — attention, RLHF, fine-tuning      │
