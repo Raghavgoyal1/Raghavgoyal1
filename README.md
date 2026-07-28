@@ -215,9 +215,6 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 ---
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
 <div align="center">
   <sub>⚡ "Trying to do better" — every commit, every day. ⚡</sub>
 </div>
