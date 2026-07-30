@@ -23,15 +23,15 @@
 <!-- ABOUT ME SECTION -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🌌 `whoami`
+## `WHO AM I`
 
 ```python
 class RaghavGoyal:
     def __init__(self):
         self.name        = "Raghav Goyal"
         self.college     = "JCDM College of Engineering"
-        self.achievement = "SIH 2025 — College Level Selectee 🏆"
-        self.motto       = "Trying to do better... every single day."
+        self.achievement = "SIH 2025 — College Level Selectee"
+        self.motto       = "Trying to do better every single day."
 
     def skills(self):
         return {
@@ -61,7 +61,7 @@ print(f"Hello, World! I'm {me.name} 👋")
 | 🎯 Achievement | 📋 Details |
 |---|---|
 | 🏆 **SIH 2025** | Selected at **College Level** — Smart India Hackathon |
-| 🎓 **Institution** | JCDM College of Engineering, 1st Year CSE |
+| 🎓 **Institution** | JCDM College of Engineering, 2nd Year CSE |
 | 💡 **Projects** | medsam-finetune & eduflow |
 
 </div>
@@ -173,23 +173,6 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 ---
 
-## 🎯 2025–2026 Roadmap
-
-<div align="center">
-
-| Quarter | Goal | Status |
-|---------|------|--------|
-| Q1 2025 | Master Python, NumPy, Pandas | ✅ Done |
-| Q2 2025 | SIH 2025 — College Selection | ✅ Done |
-| Q3 2025 | Deep dive: CNN, ANN, RNN | 🔄 In Progress |
-| Q4 2025 | Build end-to-end ML project | 🎯 Planned |
-| Q1 2026 | GenAI & LLM fine-tuning | 🎯 Planned |
-| Q2 2026 | Open source contributions | 🎯 Planned |
-
-</div>
-
----
-
 ## 💬 Dev Quote of the Day
 
 <div align="center">
@@ -206,7 +189,6 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-goyal-412353362/)
 [![GitHub Follow](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raghavgoyal1)
-
 <br/>
 
 **💡 Open to:** Collaborations · Research · Hackathons · Open Source
