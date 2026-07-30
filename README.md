@@ -23,7 +23,7 @@
 <!-- ABOUT ME SECTION -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## `WHO AM I`
+## `Who Am I`
 
 ```python
 class RaghavGoyal:
@@ -147,16 +147,16 @@ print(f"Hello, World! I'm {me.name} 👋")
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🐧  Linux internals & Bash scripting mastery          | 
-│   🤖  Machine Learning algorithms                       │
-│   🧬  Deep Neural Networks: CNN / ANN / RNN             │
-│   ✨  Generative AI — diffusion, transformers           │
-│   🧠  LLM Behaviour — attention, RLHF, fine-tuning      │
-│   🔬  Research: how intelligence emerges from math      │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+                                 ┌─────────────────────────────────────────────────────────┐
+                                 │                                                         │
+                                 │   🐧  Linux internals & Bash scripting mastery          | 
+                                 │   🤖  Machine Learning algorithms                       │
+                                 │   🧬  Deep Neural Networks: CNN / ANN / RNN             │
+                                 │   ✨  Generative AI — diffusion, transformers           │
+                                 │   🧠  LLM Behaviour — attention, RLHF, fine-tuning      │
+                                 │   🔬  Research: how intelligence emerges from math      │
+                                 │                                                         │
+                                 └─────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -189,6 +189,7 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-goyal-412353362/)
 [![GitHub Follow](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raghavgoyal1)
+[![Gmail](https://img.shields.io/badge/Let's_Connect_on_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavgoyal.hry@gmail.com)
 <br/>
 
 **💡 Open to:** Collaborations · Research · Hackathons · Open Source
