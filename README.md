@@ -142,26 +142,6 @@ print(f"Hello, World! I'm {me.name} 👋")
 
 ---
 
-## 🔥 Currently Exploring
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🐧  Linux internals & Bash scripting mastery          | 
-│   🤖  Machine Learning algorithms                       │
-│   🧬  Deep Neural Networks: CNN / ANN / RNN             │
-│   ✨  Generative AI — diffusion, transformers           │
-│   🧠  LLM Behaviour — attention, RLHF, fine-tuning      │
-│   🔬  Research: how intelligence emerges from math      │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
